@@ -1,6 +1,6 @@
 // ako 2* kliknes isto polje ono ostaje
 // ubaci slike umesto brojeva
-// sredi css (padajuci meni, header, logo)
+// sredi css (header, logo,back-front dugmici)
 // Uradi dugmice za navigaciju ?!?
 jQuery (document).ready (function($) {
 	var wrapp = $('#wrapp');
@@ -48,6 +48,6 @@ jQuery (document).ready (function($) {
 
 			}
 		};
-	});	
+	});
 	}
 });
